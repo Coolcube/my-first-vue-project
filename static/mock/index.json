@@ -1,0 +1,117 @@
+{
+  "ret": true,
+  "data": {
+    "city": "北京",
+    "swiperList": [
+      {
+        "id":"01",
+        "imgUrl":"http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20193/d7bbc21db442366a882e04ddc984669a.jpg_750x200_85e640d9.jpg"
+      },
+      {
+        "id":"02",
+        "imgUrl":"http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20195/b71119f8f632997787c191985871ab22.jpg_750x200_eddb0d93.jpg"
+      },
+      {
+        "id":"03",
+        "imgUrl":"http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20195/b035cca3938754a94ab31deb59b2f005.jpg_750x200_10824a5c.jpg"
+      }
+    ],
+    "iconImgList": [
+      {
+        "id":"01",
+        "imgUrl":"http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+        "iconDesc":"热门景点"
+      },
+      {
+        "id":"02",
+        "imgUrl":"http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20193/ac9ef584416467d8cc557aad650959fd.png",
+        "iconDesc":"公园"
+      },
+      {
+        "id":"03",
+        "imgUrl":"http://img1.qunarzz.com/piao/fusion/1803/20/831d62d2e1c7be02.png",
+        "iconDesc":"名胜古迹"
+      },
+      {
+        "id":"04",
+        "imgUrl":"http://img1.qunarzz.com/piao/fusion/1803/b6/610ab63cfbecd302.png",
+        "iconDesc":"祈福许愿"
+      },
+      {
+        "id":"05",
+        "imgUrl":"http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+        "iconDesc":"必游榜单"
+      },
+      {
+        "id":"06",
+        "imgUrl":"http://img1.qunarzz.com/piao/fusion/1805/57/1e29afd06f881102.png",
+        "iconDesc":"普陀山"
+      },
+      {
+        "id":"07",
+        "imgUrl":"http://img1.qunarzz.com/piao/fusion/1803/8c/47630407f70e8302.png",
+        "iconDesc":"横店影视城"
+      },
+      {
+        "id":"08",
+        "imgUrl":"http://img1.qunarzz.com/piao/fusion/1803/b8/c5dcdb58deec2402.png",
+        "iconDesc":"虎踞峡"
+      }
+    ],
+    "iconImgList2": [
+      {
+        "id":"09",
+        "imgUrl":"http://img1.qunarzz.com/piao/fusion/1803/f5/a963333e1fa802.png",
+        "iconDesc":"当地好玩"
+      }, {
+        "id":"10",
+        "imgUrl":"http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20193/a40ee278d67000f2a29d2e20f6a029b3.png",
+        "iconDesc":"自然风光"
+      }
+    ],
+    "recomendList": [
+      {
+        "id":"01",
+        "imgUrl":"http://img1.qunarzz.com/sight/p0/1603/c5/c5e2b211d10d4bb90.img.jpg_200x200_2a971b62.jpg",
+        "title":"千岛湖天迹热气球",
+        "desc":"浪漫的集合地，千岛湖天迹热气球,官方发的好地方",
+        "path": "/pagesdetail/Recodetail"
+      },
+      {
+        "id":"02",
+        "imgUrl":"http://img1.qunarzz.com/sight/p0/1904/68/6805ed3571d39a5ca3.img.jpg_200x200_fd85ad47.jpg",
+        "title":"杭州乐园",
+        "desc":"美丽的杭州乐园,让你玩个尽兴",
+        "path": "/pagesdetail/Hzlydetail"
+      },
+      {
+        "id":"03",
+        "imgUrl":"http://img1.qunarzz.com/sight/p0/1603/e6/e646f4221574cc2a90.water.jpg_200x200_d9b6cabd.jpg",
+        "title":"双溪竹海漂流",
+        "desc":"两个竹筏上的游客们可以嬉戏着互射水枪，玩打水仗。在一片绿色竹海中，被绿水环绕，被绿不淋透，也算是一帖消暑“良方”了。",
+        "path": "/pagesdetail/Sxdetail"
+      }
+    ],
+    "weekendList": [
+      {
+        "id":"01",
+        "imgUrl":"http://img1.qunarzz.com/sight/source/1811/52/b6776b49d27025.jpg_r_640x214_35ae205c.jpg",
+        "title":"美丽普陀山",
+        "desc":"人间仙境杭州，佛教圣地普陀山等你来玩！在这里静心接收佛家的洗礼，用心感受佛文化"
+      },
+      {
+        "id":"02",
+        "imgUrl":"http://img1.qunarzz.com/sight/source/1507/5c/1ca9ab385cc357.jpg_r_640x214_e881bb46.jpg",
+        "title":"周末玩转台州",
+        "desc":"台州地阔海冥冥，云水长和岛屿青"
+      },
+      {
+        "id":"03",
+        "imgUrl":"http://img1.qunarzz.com/sight/source/1505/fa/ca65fde9677de2.jpg_r_640x214_4500e3ff.jpg",
+        "title":"深圳必打卡",
+        "desc":"来到深圳，你需要来这里签到"
+      }
+    ]
+  }
+}
+
